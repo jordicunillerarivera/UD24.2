@@ -1,2 +1,2 @@
-# UD25
- Repo para la UD25
+# UD24.2
+ Repo para la UD24.2
